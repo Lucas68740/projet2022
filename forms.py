@@ -12,5 +12,5 @@ class TelForm(ModelForm):
             'memoire': _('Memoire'),
             'date': _('Date'),
             'prix': _('Prix'),
-            'resume': _('Résumé')
+            'resume': _('Résumé'),
         }
